@@ -95,6 +95,7 @@
                                 <field name="start_date"/>
                                 <field name="duration"/>
                                 <field name="seats"/>
+                                <field name="seats"/>
                             </group>
                         </group>
                               <label for="attendee_ids"/>
